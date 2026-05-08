@@ -1,0 +1,11 @@
+,session_id,customer_id,session_start,device,traffic_source,campaign,experiment_group
+0,1,2473,2025-08-14T11:02,desktop,sem,none,B
+1,2,2155,2024-02-29T11:56,mobile,sem,retarget,A
+2,3,2437,2024-11-13T16:23,mobile,sem,none,B
+3,4,164,2024-04-22T16:15,mobile,email,retarget,B
+4,5,1604,2024-06-15T08:39,desktop,direct,none,A
+5,6,2025,2025-01-03T12:09,mobile,seo,new_user,B
+6,7,1680,2025-02-01T20:56,mobile,seo,retarget,B
+7,8,1663,2025-08-17T05:38,mobile,email,spring_sale,A
+8,9,684,2025-03-10T13:30,mobile,seo,none,B
+9,10,2418,2025-09-17T03:22,desktop,direct,none,B

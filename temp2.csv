@@ -1,0 +1,11 @@
+,session_id,customer_id,session_start,device,traffic_source,campaign,experiment_group
+69990,69991,118,2025-09-12T10:42,desktop,sem,none,B
+69991,69992,967,2025-10-07T20:08,mobile,social,none,B
+69992,69993,2309,2024-09-18T10:53,desktop,direct,new_user,A
+69993,69994,306,2024-06-19T06:20,mobile,seo,none,A
+69994,69995,85,2024-06-15T13:27,desktop,email,none,A
+69995,69996,1747,2025-06-05T21:47,desktop,sem,none,B
+69996,69997,1688,2024-08-07T08:03,mobile,seo,none,B
+69997,69998,1217,2024-08-07T16:46,mobile,social,none,B
+69998,69999,1863,2025-12-18T16:17,mobile,email,double11,B
+69999,70000,362,2025-12-30T03:46,mobile,social,new_user,A
