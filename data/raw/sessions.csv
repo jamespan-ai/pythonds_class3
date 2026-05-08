@@ -1,13 +1,13 @@
 session_id,customer_id,session_start,device,traffic_source,campaign,experiment_group
-1,2473,2025-08-14T11:02,desktop,sem,none,B
-2,2155,2024-02-29T11:56,mobile,sem,retarget,A
+1,2473,2025-08-14T11:02,desktop,sem,n  one,B
+2,2155,2024-02-29T11:56,mobile,sem,  retarget,A
 3,2437,2024-11-13T16:23,mobile,sem,none,B
-4,164,2024-04-22T16:15,mobile,email,retarget,B
+4,164,2024-04-22T16:15,mobile,email,reta rget,B
 5,1604,2024-06-15T08:39,desktop,direct,none,A
-6,2025,2025-01-03T12:09,mobile,seo,new_user,B
+6,2025,2025-01-03T12:09,mobile,seo,  new_user,B
 7,1680,2025-02-01T20:56,mobile,seo,retarget,B
 8,1663,2025-08-17T05:38,mobile,email,spring_sale,A
-9,684,2025-03-10T13:30,mobile,seo,none,B
+9,684,2025-03-10T13:30,mobile,seo,no  ne,B
 10,2418,2025-09-17T03:22,desktop,direct,none,B
 11,2146,2025-10-23T23:37,desktop,social,none,A
 12,2398,2025-02-09T10:36,desktop,email,none,A
@@ -488,7 +488,7 @@ session_id,customer_id,session_start,device,traffic_source,campaign,experiment_g
 487,1921,2024-01-20T00:59,mobile,social,double11,A
 488,752,2024-02-07T23:04,mobile,social,new_user,B
 489,1833,2025-12-15T09:03,mobile,direct,none,B
-490,512,2025-05-04T06:26,mobile,sem,retarget,A
+490,512,2025-05-04T06:26,mobile,sem,  retarget,A
 491,235,2025-04-16T02:26,mobile,seo,retarget,B
 492,2071,2025-10-10T16:37,mobile,seo,none,B
 493,1194,2024-02-24T21:13,desktop,direct,spring_sale,B
