@@ -1,0 +1,8 @@
+,欄位,型別,非空數,缺失數,缺失率,不重覆值,風險
+0,session_id,int64,70000,0,0.0,70000,低
+1,customer_id,int64,70000,0,0.0,2500,低
+2,session_start,str,70000,0,0.0,67778,低
+3,device,str,70000,0,0.0,3,低
+4,traffic_source,str,70000,0,0.0,5,低
+5,campaign,str,70000,0,0.0,10,低
+6,experiment_group,str,70000,0,0.0,2,低
