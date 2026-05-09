@@ -1,5 +1,7 @@
 import pandas as pd
 sessions=pd.read_csv('data/raw/sessions.csv')
+mobile=pd.read_csv('data/raw/Automobile.csv')
+
 def column_health_report(df,table_name=''):
     '''產生一張欄位健康報表'''
     report=pd.DataFrame({
@@ -18,4 +20,4 @@ def column_health_report(df,table_name=''):
     print(report.to_string(index=False))
     report.to_csv('health.csv')
     return report
-health=column_health_report(sessions,'sessions')
+health=column_health_report(mobile,'sessions')
