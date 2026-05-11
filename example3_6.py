@@ -23,7 +23,7 @@ print('='*20)
 
 
 ## 8.字串清理,利用.str 存取器
-## 8-1 將 campaign 欄位的內容 去頭尾空白,輸出為 temp3.csv
+## 8-1 將 sessions 的 campaign 欄位的內容 去頭尾空白,輸出為 temp3.csv
 
 
 ## 8-2 將 campaign 欄位的內容 去頭尾空白,輸出為 temp3.csv

@@ -5,7 +5,7 @@ def lesson3(sessions)->None:
     ## 1.查看所有欄位的型別
     
     print('='*30)
-    ## 2.查看 compaign 欄的前五大類別
+    ## 2.查看 campaign 欄的前五大類別
     
 
     print('='*30)
